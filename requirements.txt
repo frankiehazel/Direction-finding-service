@@ -1,0 +1,8 @@
+folium
+pandas
+ipyleaflet
+dash
+dash-leaflet
+PyQt5
+plotly
+mgrs
