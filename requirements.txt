@@ -6,3 +6,4 @@ dash-leaflet
 PyQt5
 plotly
 mgrs
+gunicorn
