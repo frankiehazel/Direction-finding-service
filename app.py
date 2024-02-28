@@ -94,7 +94,7 @@ app.layout = html.Div([
             'padding': '20px'}),
     ], style={'height': '80vh', 'width': '80vw', 'margin': '0 auto'}),
 ], style={  # <-- This is the correct place to close the outer html.Div
-    'backgroundImage': 'url("/assets/background.jpg")',
+    'backgroundImage': 'url("/assets/background.jpeg")',
     'backgroundSize': 'cover',
     'backgroundPosition': 'center',
     'marginBottom': 50,
