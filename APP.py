@@ -195,7 +195,7 @@ def update_map(add_sensor_clicks, add_bearing_clicks, selected_sensor, location_
 
 
 updated_config = {'scrollZoom': True, 'displayModeBar': True}
-
+server = app.server
 # Run the app
 if __name__ == '__main__':
     app.run_server(debug=True)
