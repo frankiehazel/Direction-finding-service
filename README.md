@@ -40,7 +40,8 @@ Once the app is running, open `http://127.0.0.1:8050/` in your browser to intera
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) License - see the LICENSE.md file for details.
+
 
 ## Acknowledgments
 - A heartfelt thank you to all contributors.
